@@ -49,14 +49,20 @@ Este proyecto es una solución web diseñada para automatizar los procesos opera
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/gimnasio-tcc.git
-cd gimnasio-tcc
+git clone https://github.com/jhuancz/gym-webapp.git
+cd gym-webapp
 ```
 
 2. Instala dependencias:
 
 ```bash
 npm install
+```
+
+or with bun:
+
+```bash
+bun install
 ```
 
 3. Configura la base de datos:
